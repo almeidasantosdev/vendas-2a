@@ -1,4 +1,4 @@
-# vendas2a
+# 2A Vendas
 
 Base do 2A Vendas, o CRM B2B para representantes comerciais (comissões, funil e roteamento de pedidos). O produto publicado está em https://2avendas.com
 
